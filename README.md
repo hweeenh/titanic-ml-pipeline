@@ -69,7 +69,7 @@ I learned to distinguish validation accuracy from Kaggle score performance, and 
 
 ## Limitations
 
-The experiments use a single fixed train-validation split, without cross-validation. Small score differences may not generalise.
+The experiments, other than hyperparameter tuning, use a single fixed train-validation split, without cross-validation. Small score differences may not generalise.
 
 ## Notes
 
